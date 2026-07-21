@@ -117,9 +117,9 @@
     {
       "name": "OnePlus Nord CE 3 Lite / N30",
       "codename": "larry",
-      "maintainer": "Viaan",
-      "github": "https://github.com/n0escape=exe",
-      "telegram": "https://t.me/n0escape-exe",
+      "maintainer": "NoEscape.exe",
+      "github": "https://github.com/n0escape-exe",
+      "telegram": "https://t.me/n0escape_exe",
       "supported_versions": [
         {
           "version_code": "6.0",
@@ -164,6 +164,22 @@
       "maintainer": "Anshuman_X",
       "github": "https://github.com/maxxcodebug",
       "telegram": "https://t.me/AnshumanAhirwar",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    }
+  ],
+  "Motorola": [
+    {
+      "name": "Motorola G57 Power",
+      "codename": "mumba",
+      "maintainer": "NoEscape.exe",
+      "github": "https://github.com/n0escape-exe",
+      "telegram": "https://t.me/n0escape_exe",
       "supported_versions": [
         {
           "version_code": "6.0",
