@@ -1,0 +1,31 @@
+{
+  "response": [
+    {
+      "maintainer": "kAiF",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "Redmi 12 5G / Poco M6 Pro 5G / Redmi Note 12R",
+      "datetime": 1784719904,
+      "filename": "ASCP-v6.0-sky-OFFICIAL-20260722-1124.zip",
+      "url": "https://sourceforge.net/projects/project-ascp/files/sky/ASCP-v6.0-sky-OFFICIAL-20260722-1124.zip",
+      "md5": "97971fabeb8354c04dc76f93e54ec6e6",
+      "payload": [
+        {
+          "offset": 4749,
+          "FILE_HASH": "UdOnA6YEfhNl5jG2fVbG8BlhhDU8uul1j5hTcdvf0Rk=",
+          "FILE_SIZE": "2882305397",
+          "METADATA_HASH": "zTelOPuIX707B3gI/EG9Zu6+1Eiso6PGbayOyU7NvVQ=",
+          "METADATA_SIZE": "206043"
+        }
+      ],
+      "version": "6.0",
+      "buildtype": "user",
+      "forum": "t.me/Redmi125GSupport",
+      "firmware": "",
+      "paypal": "",
+      "github": "https://github.com/askthekaif",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}
