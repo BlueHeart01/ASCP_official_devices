@@ -17,7 +17,7 @@
       "firmware": "",
       "paypal": "",
       "github": "https://github.com/n0escape-exe",
-      "initial_installation_images": [https://sourceforge.net/projects/project-ascp/files/larry/recovery],
+      "initial_installation_images": ["https://sourceforge.net/projects/project-ascp/files/larry/recovery"],
       "extra_images": []
     }
   ]
