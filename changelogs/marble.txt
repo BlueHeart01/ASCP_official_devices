@@ -1,3 +1,10 @@
+=== July 23, 2026 ===
+- Switched to 64 bit only build.
+- improved powerhint tuning.
+- increased audio offload buffer size from 32KB to 64KB.
+- Further reduced uclamp value.
+- Added webview pinning overlay.
+
 === July 04, 2026 ===
 - initial android 17 update.
 - improvement in powerhint.
