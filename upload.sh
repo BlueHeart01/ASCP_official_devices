@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-SERVER_URL="${SERVER_URL:-https://cdn.ascp.app}"
+SERVER_URL="${SERVER_URL:-https://cdn-ascp.vercel.app}"
 
 GREEN='\033[0;32m'
 CYAN='\033[0;36m'
