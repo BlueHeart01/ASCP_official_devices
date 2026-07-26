@@ -1,3 +1,25 @@
+# 26-July-2026
+
+- Latest Source changes to ASCP 6.1 Android 17
+- Updated kernel version to 6.1.170-GlaciumKernel-4.5
+- Native Bypass Charging v2: Refined switch logic and battery status node reporting
+- Optimized charging thermal throttling for reduced device temperatures while fast charging
+- Allowed lseek syscall in seccomp policy for Android 17 compatibility
+- Fixed Wi-Fi Display (WFD / Miracast) streaming on Android 17
+- Updated SELinux policy rules to prevent system crashes on Android 17
+- Removed dcvs_boost kernel module
+- Refined Zen Mode power profile for better standby backup and improved Balanced profile efficiency
+- Improved sustained performance mode and thermal throttling behavior
+- Refined CPU governor tuning and scheduler responsiveness
+- Upstream WALT/CFS scheduler patches for better thread placement
+- Optimized energy model (EM) and dynamic CPU frequency scaling
+- Fine-tuned virtual memory (VM) page reclaim parameters and zRAM performance
+- Reduced storage writeback latency and improved F2FS performance
+- Optimized powerhints for smoother app launching and UI scrolling
+- Improved deep sleep residency and reduced idle battery drain
+- General system stability, memory management, and performance improvements
+- Miscellaneous changes
+
 # 03-JUly-2026
 
 - Latest Source changes to ASCP 6.0 Android 17
