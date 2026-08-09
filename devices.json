@@ -115,6 +115,20 @@
   ],
   "OnePlus": [
     {
+      "name": "OnePlus 15",
+      "codename": "infiniti",
+      "maintainer": "Raphael_8E_G5",
+      "github": "https://github.com/pialgigabyte-source",
+      "telegram": "https://t.me/p_i_a_l99",
+      "supported_versions": [
+        {
+          "version_code": "6.1",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    },
+    {
       "name": "OnePlus Nord CE 3 Lite / N30",
       "codename": "larry",
       "maintainer": "NoEscape.exe",
