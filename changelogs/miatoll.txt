@@ -1,3 +1,11 @@
+# 10-aug-2026
+
+- Fixed Chrome issues on A17
+- Fixed apps getting stuck on launch screen
+- Kernel: sync latest changes from QCOM 8150
+- Kernel: Enabled CONFIG_CHECKPOINT_RESTORE
+- Kernel: Backport: clone3
+
 # 03-Aug-2026
 
 - Latest Source changes to ASCP 6.1 Android 17
