@@ -1,3 +1,18 @@
+
+=== August 22, 2026 ===
+- CP2A relese
+- fixed GMS issue
+-dont change kernel
+-kernel su added
+-Lunris Dolby
+-Enabled ART
+-Removed Checkpoint_gc
+-Switch to skiaglthreaded renderthread backend
+
+
+
+
+
 === July 20, 2026 ===
 - Initial CP2A release
 - Enable Blur by Default

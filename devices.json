@@ -64,7 +64,7 @@
       "telegram": "https://t.me/bluehearts_Builds016",
       "supported_versions": [
         {
-          "version_code": "6.0",
+          "version_code": "6.1",
           "stable": true,
           "deprecated": false
         }

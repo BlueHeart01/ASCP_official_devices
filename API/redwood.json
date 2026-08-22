@@ -5,13 +5,12 @@
       "currently_maintained": true,
       "oem": "Xiaomi",
       "device": "POCO X5 PRO 5G / Redmi Note 12 Pro SE",
-      "filename": "ASCP-v6.0-redwood-OFFICIAL-20260720-1641.zip",
-      "download": "https://sourceforge.net/projects/project-ascp/files/redwood/17.6.0.REDACIDOF/ASCP-v6.0-redwood-OFFICIAL-20260720-1641.zip/download",
-      "timestamp": 1784565496,
-      "md5": "fd63ca930470c8417d640120d08b20fd",
-      "sha256": "9961735f798b71be7f45d00b5c548607afa49e5263bae38bfde3bfc2c70e4d40",
-      "size": 3256429975,
-      "version": "17.6.0.REDACIDOF",
+      "filename": "ASCP-v6.1-redwood-OFFICIAL-20260821-1536.zip",
+      "download": "https://sourceforge.net/projects/project-ascp/files/redwood/ASCP-v6.1-redwood-OFFICIAL-20260821-1536.zip",
+      "timestamp": 1787327649,
+      "md5": "d073cf41dbc0d3d6a802c2755ddadcfd",
+      "size": 3215894668,
+      "version": "6.1",
       "buildtype": "userdebug",
       "forum": "https://t.me/BlueHeart016",
       "firmware": "",
@@ -22,4 +21,3 @@
     }
   ]
 }
-
