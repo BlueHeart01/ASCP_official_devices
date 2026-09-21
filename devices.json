@@ -69,6 +69,20 @@
           "deprecated": false
         }
       ]
+    },
+        {
+      "name": "Redmi K20 Pro",
+      "codename": "raphael",
+      "maintainer": "BULLA",
+      "github": "https://github.com/bulla0x",
+      "telegram": "https://t.me/Bulla03x",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
     }
   ]
 }
