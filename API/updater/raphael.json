@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1790085256,
+      "filename": "ASCP-v6.3-raphael-OFFICIAL-20260922-1322.zip",
+      "url": "https://sourceforge.net/projects/project-ascp/files/raphael/6.3/ASCP-v6.3-raphael-OFFICIAL-20260922-1322.zip/download",
+      "md5": "641aeaa635e70bdf7c54be07cae257a0",
+      "sha256": "4ef652cecfbddfbe63ec5056494bbfb384479aef6ec476509beb69d976ca8c96",
+      "size": 3521205322,
+      "version": "6.3",
+      "buildtype": "OFFICIAL"    }
+  ]
+}

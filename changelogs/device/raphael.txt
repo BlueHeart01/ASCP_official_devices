@@ -1,0 +1,51 @@
+=== September 22, 2026 ===
+- Switched back to traditional haptic feedback.
+- Enable crdroid doze features.
+- Configure Android Auto audio settings.
+- Add AOD brightness controls.
+- Add audio codec support.
+- Disable Bluetooth by Default.
+- Disable collective Device administrators GMS components.
+- Disable debug.sf.latch_unsignaled.
+- Added some changes to hide magisk better.
+- Replace writepid with task_profiles command.
+- Reduce audio offload buffer size from 256KB to 64KB.
+- Allow camera HAL to read serial number.
+- Set SurfaceFlinger uclamp.min to 20%.
+- Initial task_profile configuration.
+- Debloated some apps.
+- Update WFD system stack from LA.QSSI.17.0.r1-06700-qssi.0.
+- Implemented stable bcr.
+- Cleanup some useless props.
+- Redesigned entire powerhint.
+- Tuned powerhint for balanced profile.
+- Implemented latest lineageos android_kernel_qcom_sm8150 changes.
+- fixed chrome and system frezzing issue (hopefully).
+- Improve charging experience.
+- Improve overall frame pacing and UI fluidity.
+- Use the new auto network selection UI
+- Miscellaneous optimizations.
+
+=== August 01, 2026 ===
+- initial android 17 update.
+- improvement in powerhint.
+- Added BCR.
+- Added updated kernelsu and SUSFS.
+
+=== march 18, 2026 ===
+- initial ASCP V5.2 release.
+- Update WFD system blobs from dada OS2.0.217.0.WOCMIXM.
+- Updated 797 Adreno driver.
+- Added missing radio configs.
+- Upgrade IRadio version to 1.5.
+- overlay: Reduce blur radius.
+- media: Import missing media_codecs.xml.
+- Audio: revert uprev to v7.0.
+- Wifi: Support Wifi6.
+- Allow games to use 120fps.
+- Added missing face detection libs.
+- Kernel: Update frequenties & voltage.
+- Updated BCR 2.7 Version.
+- Added charging control.
+- Some bugs are Fixed.
+- Some Other Misc Changes.
