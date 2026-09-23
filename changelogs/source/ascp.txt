@@ -1,6 +1,46 @@
-=== ASCP OS v6.0 ===
-- Android 17 (A17) initial release
-- Updated system security patch level
-- Upstream core system and platform performance improvements
-- ASCP UI enhancements and system stability optimizations
-- Initial official build release
+• ASCP v6.3 Changelogs: (September Update)
+
+- Merged with the latest september security patch.
+- Added smart pixels support.
+- Added Smart 5G service.
+- Switched to ASCP Launcher (Launcher3) as default launcher with lots of features. (Removed Pixel Launcher)
+- Updated Obscura privacy manager to v2.0.
+- Introduced Personalizations. (ascp customisation hub)
+- Improved the recents animation.
+- Added ASCP Quick Launch
+ inspired from OEM.
+- Added OmniJawsClient.
+- Implemented burn-in protection for status/navbar.
+- Added feature to changing the length of gesture navbar.
+- Implemented 3-btn-nav layout settings.
+- Added option for changing the height of gesture navbar.
+- Introducing TEE simulator.
+- Added toggle to copy screenshots to clipboard instead of saving in storage.
+- Added toggle for hiding statusbar while capturing screenshots.
+- Added smart island feature (dynamic island & Dynamic Chip)
+- Implemented advanced CPU/GPU model spoofing.
+- Added wifi and bluetooth timeout feature.
+- Added slider to change system-wide blur intensity.
+- Added HeadsUp timeout and snooze function.
+- Added HeadsUp blacklists feature.
+- Added Less boring heads up option.
+- Added Ambient notification timeout feature.
+- Added Support for private space enrollment.
+- Added toggle to suppress notifications sound/vibration if screen is ON.
+- Added IOS style app folders in the app drawer. (Toogleable from launcher settings)
+- Added depth wallpapers support.
+- Added oem style large folders support.
+- Redesigned Power Insights user interface.
+- Redesigned System Updater page.
+- Implemented nothingOS style themed icons.
+- Fixed lockscreen blur for device entry icon and shortcuts.
+- Fixed heads up notification timeout on ambient display.
+- Fixed clock and carrier text vertical padding.
+- Fixed silent toggle not working in statusbar tuner.
+- Fixed the shade header battery spacing.
+- Fixed clock start padding with date in expanded quicksettings panel.
+- Fixed lockscreen QS disable and secure tile unlock requirement for Dual Shade & Scene container.
+- Fixed brightness slider position in QQS to QS transition.
+- Fixed Ripple effect not working in some scenarios.
+- Fixed the systemui freeze issue in some devices.
+- Fixed the navigation gesture stuck issue in some cases.
