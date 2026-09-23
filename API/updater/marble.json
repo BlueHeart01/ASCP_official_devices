@@ -1,17 +1,18 @@
 [
   {
-    "datetime": 1782259200,
+    "datetime": 1790176967,
     "files": [
       {
-        "filename": "ASCP-v6.0-marble-OFFICIAL-20260624-0000.zip",
-        "os_patch_level": "2026-06-01",
-        "os_sdk_level": 36,
-        "sha256": "4f13294b7a07193a82699103bf6b4ecd72e65634fc8ab96e8c20c99433f132d9",
-        "size": 3575217103,
-        "url": "https://sourceforge.net/projects/project-ascp/files/marble/6.0/ASCP-v6.0-marble-OFFICIAL-20260624-0000.zip/download"
+        "filename": "ASCP-v6.3-marble-OFFICIAL-20260923-1524.zip",
+        "os_patch_level": "2026-09-01",
+        "os_sdk_level": 37,
+        "sha256": "cd5dd863bb47191f652cadf20fcf0505cca9fd7366c9e68c378d8759a1872ae7",
+        "size": 3692715800,
+        "url": "https://sourceforge.net/projects/project-ascp/files/marble/ASCP-v6.3-marble-OFFICIAL-20260923-1524.zip/download",
+        "ota_property_files": "payload_metadata.bin:4685:247921,payload.bin:4685:3692707621,payload_properties.txt:3692712364:156,apex_info.pb:2246:1448,care_map.pb:3741:897,metadata:69:692,metadata.pb:829:1369"
       }
     ],
-    "version": "20260624",
-    "device": "marble"
+    "type": "OFFICIAL",
+    "version": "6.3"
   }
 ]

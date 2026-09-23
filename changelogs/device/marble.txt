@@ -1,3 +1,6 @@
+== Sep, 2026 ==
+- misc improvements.
+
 === May 20, 2026 ===
 - Update latest source lumine
 - Update kernel android12-5.10-256
