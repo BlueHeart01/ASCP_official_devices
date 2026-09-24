@@ -83,6 +83,20 @@
           "deprecated": false
         }
       ]
+    },
+    {
+      "name": "Redmi Note 13 Pro 5G / POCO X6 5G",
+      "codename": "garnet",
+      "maintainer": "HEYDR",
+      "github": "https://github.com/zylhdrXP",
+      "telegram": "https://t.me/ZylhdrXP",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
     }
   ]
 }
