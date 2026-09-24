@@ -1,37 +1,26 @@
-- Latest Source changes to ASCP 5.5
-- Updated Security Patch Level to June SPL
-- Updated kernel version to 6.1.170-GlaciumKernel-4.2
-- Integrated native Droidspace container support into the kernel
-- Merged CLO tag 'LA.VENDOR.14.3.0.r1-23100-lanai.QSSI16.0' into platform/vendor/opensource/dataipa
-- Merged CLO tag 'DISPLAY.LA.4.0.r2-10100-lanai.0' into platform/hardware/qcom/display
-- Merged CLO tag 'LA.VENDOR.14.3.0.r1-23100-lanai.QSSI16.0' into platform/vendor/qcom-opensource/data-ipa-cfg-mgr
-- Updated MiuiCamerato latest 6.4 version
-- Kernel level pocket mode with Nonui sensor
-- Implemented High Brightness Mode (HBM) and fixed an issue preventing HBM activation after waking from a low-power (LP) state
-- Resolved occasional Bluetooth daemon crashes
-- Updated and patched display blobs to address visual compatibility issues
-- Reduced UI micro-stutters during high thermal scenarios
-- Fixed multi-channel audio routing issues during calls and media playback
-- Resolved a rare issue where auto-brightness could become unresponsive
-- Fixed USB tethering connection dropping or becoming unresponsive on affected devices
-- Refined Performance and Performance+ mode scaling behavior for better efficiency
-- Updated WALT governor tuning parameters for smoother CPU scaling
-- Improved scheduler latency and responsiveness under heavy CPU load
-- Optimized GPU frequency scaling for sustained gaming performance
-- Reduced unnecessary system wakeups to improve standby battery life
-- Optimized UFS storage access and I/O scheduling performance
-- Refined thermal throttling thresholds for progressive performance scaling
-- Improved foreground task prioritization in the CPU scheduler
-- Optimized battery charging thermal controls to prevent overheating and ensure proper throttling during fast charging
-- Adjusted virtual memory (VM) and allocation parameters
-- Backported CFS scheduler optimizations to reduce jitter and UI stutters under heavy load
-- Upstream F2FS and EXT4 improvements
-- Refined kernel memory management page reclaim
-- Optimized CPU scheduling and task placement for improved UI responsiveness
-- Reduced overall system memory usage under heavy multitasking cases
-- Fixed minor frame drops during quick settings panel expansion and app transitions
-- Optimized writeback performance and reduced storage I/O latency
-- Fixed minor power consumption leaks during idle standby
-- Updated gamebar and powertools to latest version
-- Updated BCR to latest v3.1
+- Latest Source changes to ASCP 6.3
+- Kernel source update to  GlaciumKernel-5.0
+- Implemented Zen driver with smart background task detection
+- Enforced ULPS for display panel during sleep
+- TrustZone accept threads now freeze cleanly during suspend
+- Fixed IPA modem interrupts handling and prevented modem data channel crashes
+- Fixed wifi speed not working properly in some regions
+- Fixed reboot to recovery/reboot to fastboot issue
+- Fixed fastcharge set to slow always after reboot
+- Fix Bluetooth and Wi-Fi initialization in early boot phase causing bootloop and crash
+- Optimized binder IPC latency and CPU energy model (EAS) scheduling
+- Improved deep sleep battery life and idle power consumption
+- Fixed fastcharge resetting back to slow mode after reboot
+- Fixed reboot to recovery / reboot to fastboot commands hanging
+- Improve CPU ramp-up and ramp-down behavior
+- Refine workload balancing across performance and efficiency cores
+- Updated Xiaomi touch driver
+- Fix Panel orientation now correctly updates orientation and xiaomi touch game mode
+- Fixed Wi-Fi link speed negotiation and throughput issues in certain regions
+- Fixed race condition in early-boot Bluetooth & Wi-Fi initialization causing bootloops/crashes
+- Fix perf hal crashing
+- Improved modem sleep transition and packet aggregation
+- Native Bypass Charging v3.1: Refined logic and battery status reporting
+- Optimized charging thermal throttling for reduced device temperatures while fast charging
+- Updated BCR to latest v3.9
 - Miscellaneous cleanups and improvements
