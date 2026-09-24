@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "POCO F7 /Redmi Turbo 4 Pro",
+      "name": "POCO F7 / Redmi Turbo 4 Pro",
       "codename": "onyx",
       "maintainer": "SharmagRit",
       "github": "https://github.com/SharmagRit",
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "name": "Poco M2 Pro / Redmi note 9s / 9 Pro / 9 Pro Max / 10 Lite",
+      "name": "Poco M2 Pro / Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite",
       "codename": "miatoll",
       "maintainer": "Drxkaii",
       "github": "https://github.com/octasoul",
@@ -70,7 +70,7 @@
         }
       ]
     },
-        {
+    {
       "name": "Redmi K20 Pro",
       "codename": "raphael",
       "maintainer": "BULLA",
@@ -95,8 +95,10 @@
           "version_code": "6.0",
           "stable": true,
           "deprecated": false
-        },
-       {
+        }
+      ]
+    },
+    {
       "name": "POCO X5 PRO 5G",
       "codename": "redwood",
       "maintainer": "BlueHeart016",
